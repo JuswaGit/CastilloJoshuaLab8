@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288723652009",
+    "firebase_url": "https://castillojoshualab8.firebaseio.com",
+    "project_id": "castillojoshualab8",
+    "storage_bucket": "castillojoshualab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288723652009:android:c83628089379f7a0",
+        "android_client_info": {
+          "package_name": "joshua.castillo.com.castillojoshualab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288723652009-c47alevb3pgbpbm5drhqtpkuq2p0h4q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joshua.castillo.com.castillojoshualab8",
+            "certificate_hash": "132913e1f0e873fccefed9ee7ef76a8fc5595713"
+          }
+        },
+        {
+          "client_id": "288723652009-f8pkrt6eg08l5rkui9kca4o7n0knsshc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAjD4eE65Z7pNZcL4r10Iadf8dpBK5Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288723652009-f8pkrt6eg08l5rkui9kca4o7n0knsshc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
