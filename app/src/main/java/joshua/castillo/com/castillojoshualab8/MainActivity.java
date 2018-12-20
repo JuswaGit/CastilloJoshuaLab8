@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
         db.child(key).setValue(new Person(name, age, gender));
 
-        Toast("Record added.....");
+        Toast("Record added!");
     }
 
     protected String beautifyTextField(EditText et) {
